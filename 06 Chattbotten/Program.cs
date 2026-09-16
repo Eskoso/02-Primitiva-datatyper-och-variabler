@@ -4,7 +4,7 @@ using SDColor = System.Drawing.Color;
 Console.Clear();
 
 AnsiConsole.Write(
-    new FigletText("CHATBOT")
+    new FigletText("CHATBOT 3000")
         .Centered()
         .Color(Color.Cyan1)
 );
@@ -68,7 +68,7 @@ while (true)
         Console.Clear();
 
         AnsiConsole.Write(
-            new FigletText("CHATBOT")
+            new FigletText("CHATBOT 3000")
                 .Centered()
                 .Color(Color.Cyan1)
         );
